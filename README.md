@@ -1,7 +1,7 @@
 ### Module 1. HTML CSS Git Challenge: Code Refactor
 
 ### Link to deployed app
-https://dlee-boot.github.io/module-1-challenge/
+https://dlee-boot.github.io/horiseon_services/
 
 ### User Story
 
